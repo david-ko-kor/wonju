@@ -10,3 +10,6 @@ https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/Scedule.ip
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/httpx.ipynb
 
+
+https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/openweathermap_api_call_quiz.ipynb
+
