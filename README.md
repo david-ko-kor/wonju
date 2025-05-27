@@ -7,3 +7,6 @@ https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/newsApi.ip
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/Scedule.ipynb 
 
+
+https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/httpx.ipynb
+
