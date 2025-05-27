@@ -21,3 +21,5 @@ https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/%E1%84%90%
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/telegramBot_01.ipynb
 
+https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/telegram02.ipynb
+
