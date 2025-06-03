@@ -23,3 +23,4 @@ https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/telegramBo
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/telegram02.ipynb
 
+https://colab.research.google.com/github/david-ko-kor/wonju/[MediaPipe_Python_Tasks]_Pose_Landmarker.ipynb
