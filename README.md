@@ -28,7 +28,7 @@ https://colab.research.google.com/github/david-ko-kor/wonju/[MediaPipe_Python_Ta
 
 
 #OpenCv and MediaPipe
-https://colab.research.google.com/github/david-ko-kor/wonju/blob/270633e0256bae6d50b8d2341bf5f8c508affe91/OpenCv_01.ipynb
+https://colab.research.google.com/github/david-ko-kor/wonju/blob/66bd4f54d19c39385756b23739491a08e841c0b7/OpenCV%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8.ipynb
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/0a5ca98e39b2e9a9bec35d1d7503665194e532d9/Media%20Pipe%20Pose%20Tutorial.ipynb
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/3d070b2ea4d9eb2352173eec540170cb8fd690ef/fire_01.ipynb
