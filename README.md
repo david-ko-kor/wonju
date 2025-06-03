@@ -24,3 +24,9 @@ https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/telegramBo
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/telegram02.ipynb
 
 https://colab.research.google.com/github/david-ko-kor/wonju/[MediaPipe_Python_Tasks]_Pose_Landmarker.ipynb
+
+
+
+#OpenCv and MediaPipe
+
+https://colab.research.google.com/github/david-ko-kor/wonju/blob/0a5ca98e39b2e9a9bec35d1d7503665194e532d9/Media%20Pipe%20Pose%20Tutorial.ipynb
