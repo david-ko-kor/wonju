@@ -31,8 +31,7 @@ https://colab.research.google.com/github/david-ko-kor/wonju/[MediaPipe_Python_Ta
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/OpenCV%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8.ipynb
 
 
-https://colab.research.google.com/github/david-ko-kor/wonju/blob/0a0421358654bb6c8befb51f95b3966ce0f3e2e8/OpenCV%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB.ipynb
-
+https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/OpenCV%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB.ipynb
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/60905fbf70faf8e4c0faa250943559565f3c72db/OpenCV%20%E1%84%83%E1%85%A9%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5.ipynb
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/MoSaic%20(2).ipynb
