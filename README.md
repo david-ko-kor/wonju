@@ -37,6 +37,8 @@ https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/OpenCV%20%
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/MoSaic%20(2).ipynb
 
+https://colab.research.google.com/david-ko-kor/wonju/blob/main/colab_webcam.ipynb
+
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/0a5ca98e39b2e9a9bec35d1d7503665194e532d9/Media%20Pipe%20Pose%20Tutorial.ipynb
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/3d070b2ea4d9eb2352173eec540170cb8fd690ef/fire_01.ipynb
