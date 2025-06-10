@@ -35,7 +35,7 @@ https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/OpenCV%20%
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/OpenCV%20%E1%84%83%E1%85%A9%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5.ipynb
 
-https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/MoSaic%20(2).ipynb
+https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/Mosaic_0611.ipynb
 
 https://colab.research.google.com/github/david-ko-kor/wonju/blob/main/colab_webcam.ipynb
 
